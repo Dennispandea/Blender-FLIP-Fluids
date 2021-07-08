@@ -27,6 +27,8 @@ SOFTWARE.
 #include <fstream>
 #include <cstring>
 #include <algorithm>
+#include <stdexcept>
+#include <limits>
 
 #include "fluidsimassert.h"
 #include "spatialpointgrid.h"
